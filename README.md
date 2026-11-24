@@ -3,7 +3,9 @@
 **Role & Execution:** BI & Data Analyst.
 
 - **System Scope:** Conducted a comparative analysis of the Tokyo Olympic Games dataset to evaluate national medal distributions and highlight ranking discrepancies between gold-based standings and total medal counts.
+
 - **Technical Implementation:** Performed data extraction and transformation using Power Query. Engineered dynamic Power BI dashboards featuring Star Schema data modeling, and multi-tier interactive slicers.
+
 - **Tech Stack:** Power BI, Power Query, Data Modeling, Exploratory Data Analysis.
 
 ## 🖼️ Dashboard Preview
